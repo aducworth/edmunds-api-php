@@ -1,0 +1,19 @@
+{
+    "name": "aducworth/edmunds-api-php",
+    "description": "PHP Library for the Edmunds API",
+    "authors": [
+        {
+            "name": "Austin Ducworth",
+            "email": "aducworth@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	    "php": ">=5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "aducworth\\Edmunds\\": "src"
+        }
+    }
+}
