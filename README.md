@@ -4,7 +4,7 @@ PHP library for the Edmunds Api
 Overview
 ------------
 
-The library has methods to help send data to and recieve data from the API.
+The library has methods to recieve data from the API.
 
 Please read the [Edmunds API documentation](http://developer.edmunds.com/api-documentation/overview/) to see what endpoints are available.
 
