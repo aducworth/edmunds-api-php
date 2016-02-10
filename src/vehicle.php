@@ -1,26 +1,6 @@
 <?
 
-//require_once( 'edmunds.php' );
-
-//$edmunds = new Edmunds;
-
-//print_r( $edmunds->call( '/vehicle/v2/makes' ) );
-
-
-//$vehical_api = new VehicleApi;
-
-//print_r( $vehical_api->getMakes() );
-
-//print_r( $vehical_api->getModels( 'volvo', 's60' ) );
-
-
-//print_r( $vehical_api->getModels( 'toyota', 'tacoma' ) );
-
-//print_r( $vehical_api->getModelsWithMaintenance() );
-
-//print_r( $vehical_api->getMaintenanceSchedule( 100502910 ) );
-
-namespace aducworth\Edmunds;
+namespace Aducworth\Edmunds;
 
 class VehicleApi {
 

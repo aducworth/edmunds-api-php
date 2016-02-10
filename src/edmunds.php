@@ -1,10 +1,6 @@
 <?
 
-//$edmunds = new Edmunds;
-//
-//print_r( $edmunds->call( '/vehicle/v2/makes' ) );
-
-namespace aducworth\Edmunds;
+namespace Aducworth\Edmunds;
 
 class EdmundsApi {
 
